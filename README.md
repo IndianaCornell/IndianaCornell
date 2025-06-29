@@ -22,3 +22,8 @@ This is my **educational GitHub page**, where I document my progress and share t
 `Vite` • `Webpack` • `Babel`
 
  
+### 📊 GitHub Stats
+
+![Serj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndianaCornell&show_icons=true&theme=transparent&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameIndianaCornell&layout=compact&theme=transparent)
